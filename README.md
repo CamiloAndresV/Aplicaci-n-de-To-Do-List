@@ -9,7 +9,7 @@
 ## 🚀 **Características**
 
 - **Interfaz gráfica intuitiva**:
-  - Desarrollada con **Tkinter** o **PyQt** para una experiencia de usuario amigable y visualmente atractiva.
+  - Desarrollada con **Tkinter**  para una experiencia de usuario amigable y visualmente atractiva.
   
 - **Gestión de tareas**:
   - **Agregar tareas**: Añade nuevas tareas con descripción y fecha de vencimiento opcional.
